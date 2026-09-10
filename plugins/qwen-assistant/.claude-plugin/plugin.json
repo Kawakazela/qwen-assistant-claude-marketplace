@@ -1,0 +1,8 @@
+{
+  "name": "qwen-assistant",
+  "version": "1.0.1",
+  "description": "Adds Qwen vision and web-research tools to Claude Desktop Cowork.",
+  "author": {
+    "name": "Local"
+  }
+}
